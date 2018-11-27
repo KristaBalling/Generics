@@ -5,4 +5,7 @@ public class Player {
     }
 
 
+    public boolean getName() {
+        return false;
+    }
 }
